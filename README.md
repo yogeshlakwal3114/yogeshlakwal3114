@@ -1,3 +1,4 @@
+![logo](https://github.com/yogeshlakwal3114/yogeshlakwal3114/blob/main/profile.png)
 <h1 align="center">Hi 👋, I'm Yogesh Lakwal</h1>
 <h3 align="center">A passionate full-stack Developer & Data Analyst</h3>
 
